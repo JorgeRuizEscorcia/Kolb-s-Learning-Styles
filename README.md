@@ -1,2 +1,2 @@
-# kolb-styles-of-learning
-Agrupamieno de esilos de aprendizaje de Kolb
+# Kolb-styles-of-learning
+AKolb's Learning Style Cluster
