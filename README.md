@@ -76,13 +76,7 @@ Agrupar estudiantes de acuerdo con sus puntajes GPA en distintas dimensiones del
 
 ---
 
-## 🚀 Cómo ejecutar
 
-1. Clona el repositorio o sube los archivos a Google Colab.
-2. Asegúrate de tener cargado el archivo `Data_Kolb_2.xlsx` en tu Google Drive.
-3. Ejecuta el notebook paso a paso para visualizar el análisis completo.
-
----
 
 ## 📘 Referencias
 
